@@ -1,3 +1,16 @@
-# OIBSIPIntern
-An internship with OASIS INFOBYTE in the Data Science Domain which consisted of a series of tasks that were provided as projects 
+OASIS INFOBYTE INTERNSHIP 
+
+
+Data Science internship where I performed a series of tasks.
+
+---------------------------------------------------------------
+
+
+TASK 1 : IRIS FLOWER CLASSIFICATION
+
+TASK 2 : UNEMPLOYMENT ANALYSIS 
+
+TASK 3 : CAR PRICE PREDICTION
+
+TASK 4 : SALES ADVERTISING ANALYSIS
 
